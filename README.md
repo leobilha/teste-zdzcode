@@ -37,10 +37,14 @@ Foi utilizado Swagger para documentar todos os endpoints disponíveis.
 
 Ter instalado na maquina node.js/yarn e no VS Code ter instalado extensões: Nuxt e Vuetify.
 
-Ter SDK .Net 6 instalado na maquina, realizar a compilação e iniciar a solução.
-
-Comando pra rodar projeto: 
+Comando pra rodar projeto do Front-End
 
 yarn build
 
 yarn dev
+
+Para Back-End:
+
+Ter SDK .Net 6 instalado na maquina, realizar a compilação e iniciar a solução.
+
+
