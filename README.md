@@ -31,7 +31,6 @@ Foi utilizado Swagger para documentar todos os endpoints disponíveis.
  - API REST (POST e GET)
  - EF Core (Dados salvos em memória)
  - Librarys: Drawing.Imaging, AutoMapper, EF Core, Json (Comunicação)
- - Rest Assured
  - Swagger (documentação)
 
 ## Como executar:
