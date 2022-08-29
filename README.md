@@ -25,8 +25,6 @@ Foi utilizado Swagger para documentar todos os endpoints disponíveis.
 É possível acessá-lo através da URL `https://localhost:7178/swagger/index.html`.
 
 ## O que foi utilizado
-
-As seguintes decisões foram feitas quanto à stack:
  
  - Front-End: VueJS + framework Nuxt + Vuetify
  - Back-End: .Net 6 (C#)
