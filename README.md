@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido como parte do processo seletivo para o cargo de Desenvolvedor no ZDZCode.
 
-A aplicação consiste em uma API para geração e consulta de carteiras digital de estudante. 
+A aplicação consiste em uma API e interface para geração e consulta de carteiras digital de estudante. 
 
 ## Requisitos
 
