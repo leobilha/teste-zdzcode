@@ -35,6 +35,8 @@ Foi utilizado Swagger para documentar todos os endpoints disponíveis.
 
 ## Como executar:
 
+Colocar arquivo 'ObjetoModeloCarteira.json' na pasta C.
+
 Ter instalado na maquina node.js/yarn e no VS Code ter instalado extensões: Nuxt e Vuetify.
 
 Comando pra rodar projeto do Front-End
